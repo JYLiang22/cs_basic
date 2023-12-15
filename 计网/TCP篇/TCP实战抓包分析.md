@@ -51,7 +51,8 @@
 # TCP 快速建立连接
 其实也是使用了缓存的功能，实现了快速建立连接。<br>
 主要经历了三个过程：<br>
-常规HTTP请求(2.5个RTT) -> 第三次握手带数据(2个RTT) -> TCP Fast Open(第二次请求只要一个RTT)
+常规HTTP请求(2.5个RTT) -> 第三次握手带数据(2个RTT) -> TCP Fast Open(第二次请求只要一个RTT)<br>
+了解下cookie是什么：[「每日一题」简述 Cookie 是什么](https://zhuanlan.zhihu.com/p/22396872)、[每个网站都要你接受Cookie，Cookie是什么？同意了又会发生什么？](https://zhuanlan.zhihu.com/p/569770479)
 
 
 # TCP 重复确认和快速重传
