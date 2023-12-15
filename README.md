@@ -56,6 +56,9 @@
 [已建立连接的TCP，收到SYN会发生什么](%E8%AE%A1%E7%BD%91/TCP%E7%AF%87/%E5%B7%B2%E5%BB%BA%E7%AB%8B%E8%BF%9E%E6%8E%A5%E7%9A%84TCP%EF%BC%8C%E6%94%B6%E5%88%B0SYN%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88.md)<br>
 [四次挥手中收到乱序的 FIN 包会如何处理](<计网/TCP篇/四次挥手中收到乱序的 FIN 包会如何处理.md>)<br>
 [在 TIME_WAIT 状态的 TCP 连接，收到 SYN 后会发生什么](<计网/TCP篇/在 TIME_WAIT 状态的 TCP 连接，收到 SYN 后会发生什么.md>)<br>
+[TCP 连接，一端断电和进程崩溃有什么区别](<计网/TCP篇/TCP 连接，一端断电和进程崩溃有什么区别.md>)<br>
+[拔掉网线后， 原本的 TCP 连接还存在吗](<计网/TCP篇/拔掉网线后， 原本的 TCP 连接还存在吗.md>)<br>
+[tcp_tw_reuse 为什么默认是关闭的](<计网/TCP篇/tcp_tw_reuse 为什么默认是关闭的.md>)<br>
 
 
 ### IP篇
