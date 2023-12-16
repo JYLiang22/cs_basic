@@ -2,11 +2,13 @@
 - [Ê²Ã´ÊÇ TIME\_WAIT ×´Ì¬](#Ê²Ã´ÊÇ-time_wait-×´Ì¬)
 - [ÎªÊ²Ã´ÒªÉè¼Æ TIME\_WAIT ×´Ì¬](#ÎªÊ²Ã´ÒªÉè¼Æ-time_wait-×´Ì¬)
 - [tcp\_tw\_reuse ÊÇÊ²Ã´](#tcp_tw_reuse-ÊÇÊ²Ã´)
+- [ÎªÊ²Ã´ tcp\_tw\_reuse Ä¬ÈÏÊÇ¹Ø±ÕµÄ](#ÎªÊ²Ã´-tcp_tw_reuse-Ä¬ÈÏÊÇ¹Ø±ÕµÄ)
 
 
 # ÎÊÌâÒýÈë
-È»´ò¿ª net.ipv4.tcp_tw_reuse ²ÎÊý¿ÉÒÔ¿ìËÙ¸´ÓÃ´¦ÓÚ TIME_WAIT ×´Ì¬µÄ TCP Á¬½Ó£¬ÄÇÎªÊ²Ã´ Linux Ä¬ÈÏÊÇ¹Ø±Õ×´Ì¬ÄØ£¿<br>
-ÆäÊµÕâÌâÔÚ±äÏàÎÊÈç¹û TIME_WAIT ×´Ì¬³ÖÐøÊ±¼ä¹ý¶Ì»òÕßÃ»ÓÐ£¬»áÓÐÊ²Ã´ÎÊÌâ£¿ÒòÎª¿ªÆô tcp_tw_reuse ²ÎÊý¿ÉÒÔ¿ìËÙ¸´ÓÃ´¦ÓÚ TIME_WAIT ×´Ì¬µÄ TCP Á¬½ÓÊ±£¬Ïàµ±ÓÚËõ¶ÌÁË TIME_WAIT ×´Ì¬µÄ³ÖÐøÊ±¼ä¡£
+¼ÈÈ»´ò¿ª net.ipv4.tcp_tw_reuse ²ÎÊý¿ÉÒÔ¿ìËÙ¸´ÓÃ´¦ÓÚ TIME_WAIT ×´Ì¬µÄ TCP Á¬½Ó£¬ÄÇÎªÊ²Ã´ Linux Ä¬ÈÏÊÇ¹Ø±Õ×´Ì¬ÄØ£¿<br>
+ÆäÊµÕâÌâÔÚ±äÏàÎÊÈç¹û TIME_WAIT ×´Ì¬³ÖÐøÊ±¼ä¹ý¶Ì»òÕßÃ»ÓÐ£¬»áÓÐÊ²Ã´ÎÊÌâ£¿ÒòÎª¿ªÆô tcp_tw_reuse ²ÎÊý¿ÉÒÔ¿ìËÙ¸´ÓÃ´¦ÓÚ TIME_WAIT ×´Ì¬µÄ TCP Á¬½ÓÊ±£¬Ïàµ±ÓÚËõ¶ÌÁË TIME_WAIT ×´Ì¬µÄ³ÖÐøÊ±¼ä¡£<br>
+ÏÈÖ±½Ó¿´×Ü½á°É£¬·´Õý¾ÍÊÇÎªÊ²Ã´ÒªÉè¼Ætime_waitÕâÁ½¸öÔ­Òò
 
 
 # Ê²Ã´ÊÇ TIME_WAIT ×´Ì¬
@@ -21,3 +23,5 @@ MSL Ö¸µÄÊÇ TCP Ð­ÒéÖÐÈÎºÎ±¨ÎÄÔÚÍøÂçÉÏ×î´óµÄÉú´æÊ±¼ä£¬ÈÎºÎ³¬¹ýÕâ¸öÊ±¼äµÄÊý¾Ý¶¼½«±
 
 # tcp_tw_reuse ÊÇÊ²Ã´
 
+
+# ÎªÊ²Ã´ tcp_tw_reuse Ä¬ÈÏÊÇ¹Ø±ÕµÄ

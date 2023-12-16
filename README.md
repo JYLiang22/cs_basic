@@ -1,11 +1,14 @@
 # CS_Basics
 
+
 ## 介绍
 自己准备实习和秋招过程中，所学知识的总结。
 
 **********************************************
 
 # 项目
+
+
 ## Linux高并发服务器开发
 [1 Linux系统编程入门](https://github.com/LIANGJYNO1/cs_basic/blob/master/project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/1%20Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/%E7%AC%94%E8%AE%B0.md)   
 [2 Linux多进程开发](https://github.com/LIANGJYNO1/cs_basic/blob/master/project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/2%20Linux%E5%A4%9A%E8%BF%9B%E7%A8%8B%E5%BC%80%E5%8F%91/%E7%AC%94%E8%AE%B0.md)   
@@ -26,13 +29,12 @@
 ##  计组
 
 
-
 ## 操作系统
-
 
 
 ## 计网
 **小林coding笔记梳理**
+
 
 ### 基础篇
 [TCP IP网络模型有几层](<计网/基础篇/TCP IP网络模型有几层.md>)<br>
@@ -59,15 +61,17 @@
 [TCP 连接，一端断电和进程崩溃有什么区别](<计网/TCP篇/TCP 连接，一端断电和进程崩溃有什么区别.md>)<br>
 [拔掉网线后， 原本的 TCP 连接还存在吗](<计网/TCP篇/拔掉网线后， 原本的 TCP 连接还存在吗.md>)<br>
 [tcp_tw_reuse 为什么默认是关闭的](<计网/TCP篇/tcp_tw_reuse 为什么默认是关闭的.md>)<br>
+[HTTPS 中 TLS 和 TCP 能同时握手吗](<计网/TCP篇/HTTPS 中 TLS 和 TCP 能同时握手吗.md>)<br>
+[TCP Keepalive 和 HTTP Keep-Alive 是一个东西吗](<计网/TCP篇/TCP Keepalive 和 HTTP Keep-Alive 是一个东西吗.md>)<br>
+[TCP 协议有什么缺陷](<计网/TCP篇/TCP 协议有什么缺陷.md>)<br>
+[如何基于 UDP 协议实现可靠传输](<计网/TCP篇/如何基于 UDP 协议实现可靠传输.md>)<br>
 
 
 ### IP篇
 
 
-
 ## 算法
 [数组篇](https://github.com/LIANGJYNO1/cs_basic/blob/master/algorithm/%E6%95%B0%E7%BB%84%E7%AF%87.md)
-
 
 
 ## 设计模式
@@ -130,7 +134,9 @@
 
 # 语言 
 
+
 ## C
+
 
 ### C和指针
 
@@ -142,6 +148,7 @@
 
 
 ## C++
+
 
 ### C++ Primer第五版
 [第二章 变量和基本类型](https://github.com/LIANGJYNO1/cs_basic/blob/master/C%2B%2B%20Primer/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)   
@@ -170,6 +177,7 @@
 
 # 工具类
 
+
 ## 正则表达式
 可以参考以下学习：
 1. [github仓库](https://github.com/any86/any-rule)
@@ -197,5 +205,3 @@ gdb看Linux高并发服务器里的笔记，自己动手写写，不难！
 
 ## Makefile/cmake
 Makefile看Linux高并发服务器里的笔记，自己动手写写，不难！
- 
-# cs_basic
