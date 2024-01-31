@@ -22,6 +22,7 @@
 ### 项目实战
 [项目整体框架](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E6%95%B4%E4%BD%93%E6%A1%86%E6%9E%B6.md)<br>
 [半同步半反应堆线程池](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E5%8D%8A%E5%90%8C%E6%AD%A5%E5%8D%8A%E5%8F%8D%E5%BA%94%E5%A0%86%E7%BA%BF%E7%A8%8B%E6%B1%A0.md)<br>
+[http连接处理](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/http%E8%BF%9E%E6%8E%A5%E5%A4%84%E7%90%86.md)<br>
 
 
 ## rtos
@@ -42,7 +43,8 @@
 
 
 ### 网络系统
-[I/O 多路复用：select/poll/epoll](<OS/网络系统/IO 多路复用：select poll epoll.md>)
+[I/O 多路复用：select/poll/epoll](<OS/网络系统/IO 多路复用：select poll epoll.md>)<br>
+[高性能网络模式：Reactor 和 Proactor](<OS/网络系统/高性能网络模式：Reactor 和 Proactor.md>)<br>
 
 
 ## 计网
