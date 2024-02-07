@@ -24,6 +24,8 @@
 [半同步半反应堆线程池](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E5%8D%8A%E5%90%8C%E6%AD%A5%E5%8D%8A%E5%8F%8D%E5%BA%94%E5%A0%86%E7%BA%BF%E7%A8%8B%E6%B1%A0.md)<br>
 [http连接处理](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/http%E8%BF%9E%E6%8E%A5%E5%A4%84%E7%90%86.md)<br>
 [定时器处理非活动连接](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E5%AE%9A%E6%97%B6%E5%99%A8%E5%A4%84%E7%90%86%E9%9D%9E%E6%B4%BB%E5%8A%A8%E8%BF%9E%E6%8E%A5.md)<br>
+[日志系统](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E6%97%A5%E5%BF%97%E7%B3%BB%E7%BB%9F.md)<br>
+[数据库模块](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%A8%A1%E5%9D%97.md)<br>
 
 
 ## rtos
@@ -41,6 +43,9 @@
 
 ## 操作系统
 **小林coding笔记梳理**
+
+
+### 进程管理
 
 
 ### 网络系统
@@ -153,6 +158,12 @@
 |Strategy/Policy |	策略模式 | 常用 | 
 |Template Method |	模板方法模式 |
 |Visitor |	访问者模式 |
+
+可参考以下资料学习：
+1. [CSDN专栏](https://blog.csdn.net/sinat_21107433/category_9418696.html)
+2. [设计模式](https://refactoringguru.cn/design-patterns)
+3. [卡码网设计模式](https://kamacoder.com/designpattern.php)
+
 
 **********************************************
 
