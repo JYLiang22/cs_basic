@@ -2,6 +2,7 @@
 
 
 ## 介绍
+
 自己准备实习和秋招过程中，所学知识的总结。
 
 **********************************************
@@ -13,6 +14,7 @@
 
 
 ### 基础知识
+
 [1 Linux系统编程入门](<project/Linux高并发服务器开发/1 Linux系统编程入门/笔记.md>)<br> 
 [2 Linux多进程开发](<project/Linux高并发服务器开发/2 Linux多进程开发/笔记.md>)<br>
 [3 Linux多线程开发](<project/Linux高并发服务器开发/3 Linux多线程开发/笔记.md>)<br> 
@@ -20,6 +22,7 @@
 
 
 ### 项目实战
+
 [三图](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E4%B8%89%E5%9B%BE.md)<br>
 [项目整体框架](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E6%95%B4%E4%BD%93%E6%A1%86%E6%9E%B6.md)<br>
 [半同步半反应堆线程池](project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E5%8D%8A%E5%90%8C%E6%AD%A5%E5%8D%8A%E5%8F%8D%E5%BA%94%E5%A0%86%E7%BA%BF%E7%A8%8B%E6%B1%A0.md)<br>
@@ -49,6 +52,7 @@
 
 
 ## 操作系统
+
 **小林coding笔记梳理**
 
 
@@ -56,25 +60,30 @@
 
 
 ### 网络系统
+
 [I/O 多路复用：select/poll/epoll](<OS/网络系统/IO 多路复用：select poll epoll.md>)<br>
 [高性能网络模式：Reactor 和 Proactor](<OS/网络系统/高性能网络模式：Reactor 和 Proactor.md>)<br>
 
 
 ## 计网
+
 **小林coding笔记梳理**
 
 
 ### 基础篇
+
 [TCP IP网络模型有几层](<计网/基础篇/TCP IP网络模型有几层.md>)<br>
 [键入地址到网页显示期间发生了什么](%E8%AE%A1%E7%BD%91/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%94%AE%E5%85%A5%E5%9C%B0%E5%9D%80%E5%88%B0%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)<br>
 [Linux 系统是如何收发网络包的](<计网/基础篇/Linux 系统是如何收发网络包的.md>)
 
 
 ### HTTP篇
+
 [HTTP常见面试题](%E8%AE%A1%E7%BD%91/HTTP%E7%AF%87/HTTP%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)<br>
 
 
 ### TCP篇
+
 [TCP 三次握手与四次挥手面试题](<计网/TCP篇/TCP 三次握手与四次挥手面试题.md>)<br>
 [TCP重传 滑动窗口 流量控制 拥塞控制](<计网/TCP篇/TCP重传 滑动窗口 流量控制 拥塞控制.md>)<br>
 [TCP实战抓包分析](%E8%AE%A1%E7%BD%91/TCP%E7%AF%87/TCP%E5%AE%9E%E6%88%98%E6%8A%93%E5%8C%85%E5%88%86%E6%9E%90.md)<br>
@@ -105,6 +114,7 @@
 
 
 ## 算法
+
 [数组篇](algorithm/%E6%95%B0%E7%BB%84%E7%AF%87.md)<br>
 [链表篇](algorithm/%E9%93%BE%E8%A1%A8%E7%AF%87.md)<br>
 [哈希表](algorithm/%E5%93%88%E5%B8%8C%E8%A1%A8.md)<br>
@@ -167,6 +177,7 @@
 |Visitor |	访问者模式 |
 
 可参考以下资料学习：
+
 1. [CSDN专栏](https://blog.csdn.net/sinat_21107433/category_9418696.html)
 2. [设计模式](https://refactoringguru.cn/design-patterns)
 3. [卡码网设计模式](https://kamacoder.com/designpattern.php)
@@ -193,6 +204,7 @@
 
 
 ### C++ Primer第五版
+
 [第二章 变量和基本类型](<C++ Primer/第二章 变量和基本类型.md>)<br>
 [第三章 字符串、向量和数组](<C++ Primer/第三章 字符串、向量和数组.md>)<br>
 [第四章 表达式](<C++ Primer/第四章 表达式.md>)<br>
@@ -221,7 +233,9 @@
 
 
 ## 正则表达式
+
 可以参考以下学习：
+
 1. [github仓库](https://github.com/any86/any-rule)
 2. [图解正则网站](https://regexper.com/)
 
@@ -230,7 +244,9 @@
 
 
 ## Linux/shell/vim
+
 值得参考的博客：
+
 1. [shell](https://blog.csdn.net/weixin_42313749/article/details/120524768)，学习这个博客的同时还自己动手写了git自动push的脚本<br>
 2. [shell](https://blog.csdn.net/w918589859/article/details/108752592?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169525906716800192280547%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169525906716800192280547&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-108752592-null-null.142^v94^chatsearchT3_1&utm_term=shell&spm=1018.2226.3001.4187)
 3. [Linux/shell/vim](https://blog.csdn.net/as604049322/article/details/120446586?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169525487416800222827078%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169525487416800222827078&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-120446586-null-null.142^v94^chatsearchT3_1&utm_term=linux&spm=1018.2226.3001.4187)
@@ -238,12 +254,15 @@
 
 
 ## git
+
 参考这个[博客](https://www.liaoxuefeng.com/wiki/896043488029600)学习
 
 
 ## gdb/gcc
+
 gdb看Linux高并发服务器里的笔记，自己动手写写，不难！
 
 
 ## Makefile/cmake
+
 Makefile看Linux高并发服务器里的笔记，自己动手写写，不难！
