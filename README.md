@@ -265,4 +265,5 @@ gdb看Linux高并发服务器里的笔记，自己动手写写，不难！
 
 ## Makefile/cmake
 
-Makefile看Linux高并发服务器里的笔记，自己动手写写，不难！
+1. Makefile看Linux高并发服务器里的笔记，自己动手写写，不难！
+2. 参考[CSDN](https://blog.csdn.net/ZBraveHeart/article/details/123187908?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170988428416800185818949%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170988428416800185818949&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-2-123187908-null-null.142^v99^pc_search_result_base3&utm_term=Makefile&spm=1018.2226.3001.4187)
