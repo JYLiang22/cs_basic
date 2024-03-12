@@ -1,6 +1,4 @@
-/*
-通过锁机制，实现多线程的同步，确保任一时刻只能有一个线程进入关键代码段。
-*/
+/*通过锁机制，实现多线程的同步，确保任一时刻只能有一个线程进入关键代码段。*/
 
 #ifndef LOCKER_H
 #define LOCKER_H
@@ -15,6 +13,7 @@ private:
     sem_t m_sem;
 
 public:
+    // sem_init 用法可通过 man 3 sem_init 查看
     sem(){
         if(sem_init(&m_sem, 0, 0) != 0){
             throw std::exception();
