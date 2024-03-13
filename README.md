@@ -136,7 +136,7 @@
 没有包含在其中的设计模式有以下四个：
 |名称|中文名|说明|笔记|
 |--|--|--|--|
-|Simple Factory |简单工厂模式 | 常用 | [笔记](Design_Pattern/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md) |
+|Simple Factory |简单工厂模式 | 常用 | [笔记](Design_Pattern/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md) |
 |single responsibility |单一职责模式 | 
 |The Open-Closed Principle |开放-封闭模式 | 
 |Dependence Inversion Principle |依赖倒转模式 | 
@@ -146,9 +146,9 @@
 |--|--|--|--|
 |Abstract Factory/Kit|	抽象工厂模式	| 常用 | 
 |Builder|	建造者模式	|
-|Factory Method/Virutal Contructor|	工厂方法模式	| 常用 | 
+|Factory Method/Virutal Contructor|	工厂方法模式	| 常用 | [笔记](Design_Pattern/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md) |
 |Prototype|	原型模式	|
-|Singleton|	单例模式  | 常用 | [笔记](Design_Pattern/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md) |
+|Singleton|	单例模式  | 常用 | [笔记](Design_Pattern/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md) |
 
 结构型模式如下表：
 |结构型模式|	中文名	| 说明 | 笔记 |   
