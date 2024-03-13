@@ -148,7 +148,7 @@
 |Builder|	建造者模式	|
 |Factory Method/Virutal Contructor|	工厂方法模式	| 常用 | 
 |Prototype|	原型模式	|
-|Singleton|	单例模式  | 常用 | 
+|Singleton|	单例模式  | 常用 | [笔记](Design_Pattern/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md) |
 
 结构型模式如下表：
 |结构型模式|	中文名	| 说明 | 笔记 |   
