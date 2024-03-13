@@ -136,7 +136,7 @@
 没有包含在其中的设计模式有以下四个：
 |名称|中文名|说明|笔记|
 |--|--|--|--|
-|Simple Factory |简单工厂模式 | 常用 | 
+|Simple Factory |简单工厂模式 | 常用 | [笔记](Design_Pattern/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md) |
 |single responsibility |单一职责模式 | 
 |The Open-Closed Principle |开放-封闭模式 | 
 |Dependence Inversion Principle |依赖倒转模式 | 
