@@ -144,7 +144,7 @@
 创建型模式如下表：
 |创建型模式|	中文名	| 说明 | 笔记 |
 |--|--|--|--|
-|Abstract Factory/Kit|	抽象工厂模式	| 常用 | 
+|Abstract Factory/Kit|	抽象工厂模式	| 常用 | [笔记](Design_Pattern/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md) |
 |Builder|	建造者模式	|
 |Factory Method/Virutal Contructor|	工厂方法模式	| 常用 | [笔记](Design_Pattern/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md) |
 |Prototype|	原型模式	|
