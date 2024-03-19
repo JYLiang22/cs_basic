@@ -160,12 +160,12 @@
 |结构型模式|	中文名	| 说明 | 笔记 |   
 |--|--|--|--|
 |Adapter/Wrapper|	适配器模式	|
-|Bridge/Handle/Body|	桥接模式|
+|Bridge/Handle/Body|	桥接模式  |
 |Composite|	组合模式	|
-|Decorator/Wrapper|	装饰器模式	| 常用 |
+|Decorator/Wrapper|	装饰器模式	| 常用 | [笔记](Design_Pattern/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F.md) |
 |Facade|	外观模式	| 常用 | 
 |Flyweight|	享元模式	|
-|Proxy/Surrogate|	代理模式| 常用 | 
+|Proxy/Surrogate|	代理模式  | 常用 | 
 
 行为型模式如下表：
 |行为型模式 |	中文名 |	说明 |	笔记 |
