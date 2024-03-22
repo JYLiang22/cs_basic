@@ -175,7 +175,7 @@
 行为型模式如下表：
 |行为型模式 |	中文名 |	说明 |	笔记 |
 |--|--|--|--|
-|Chain of Responsibility |	责任链模式 | 常用 | 
+|Chain of Responsibility |	职责链模式 | 常用 | [笔记](Design_Pattern/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.md) |
 |Command/Action/Transaction |	命令模式 | 常用 | 
 |Interpreter |	解释器模式 |
 |Iterator/Cursor |	迭代器模式 |
