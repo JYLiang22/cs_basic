@@ -183,7 +183,7 @@
 |Memento/Token |	备忘录模式 |
 |Observer/Dependents/Publish-Subscribe |	观察者模式 | 常用 | [笔记](Design_Pattern/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md) |
 |State/Objects for States |	状态模式 |
-|Strategy/Policy |	策略模式 | 常用 | 
+|Strategy/Policy |	策略模式 | 常用 | [笔记](Design_Pattern/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F.md) | 
 |Template Method |	模板方法模式 |
 |Visitor |	访问者模式 |
 
