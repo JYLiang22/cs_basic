@@ -259,18 +259,11 @@
 
 ## gdb/gcc
 
-gdb看Linux高并发服务器里的笔记，自己动手写写，不难！<br>
+gdb看[Linux高并发服务器里的笔记](<project/Linux高并发服务器开发/1 Linux系统编程入门/笔记.md>)，自己动手写写，不难！<br>
 
 
 ## Makefile/cmake
 
-1. Makefile看Linux高并发服务器里的笔记，自己动手写写，不难！
+1. Makefile看[Linux高并发服务器里的笔记](<project/Linux高并发服务器开发/1 Linux系统编程入门/笔记.md>)，自己动手写写，不难！
 2. 参考[CSDN](https://blog.csdn.net/ZBraveHeart/article/details/123187908?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170988428416800185818949%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170988428416800185818949&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-2-123187908-null-null.142^v99^pc_search_result_base3&utm_term=Makefile&spm=1018.2226.3001.4187)
 
-
-## 知识点总结
-
-1. [Linux](%E5%B7%A5%E5%85%B7%E7%B1%BB%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/Linux.md)
-2. [makefile](%E5%B7%A5%E5%85%B7%E7%B1%BB%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/makefile.md)
-3. [gdb gcc](<工具类知识点总结/gdb gcc.md>)
-4. [git](%E5%B7%A5%E5%85%B7%E7%B1%BB%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/git.md)
