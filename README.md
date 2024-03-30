@@ -249,7 +249,6 @@
 1. [shell](https://blog.csdn.net/weixin_42313749/article/details/120524768)，学习这个博客的同时还自己动手写了git自动push的脚本
 2. [shell](https://blog.csdn.net/w918589859/article/details/108752592?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169525906716800192280547%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169525906716800192280547&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-108752592-null-null.142^v94^chatsearchT3_1&utm_term=shell&spm=1018.2226.3001.4187)
 3. [Linux/shell/vim](https://blog.csdn.net/as604049322/article/details/120446586?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169525487416800222827078%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169525487416800222827078&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-120446586-null-null.142^v94^chatsearchT3_1&utm_term=linux&spm=1018.2226.3001.4187)
-4. [Linux](https://blog.csdn.net/weixin_44895651/article/details/105289038?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169525487416800222827078%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169525487416800222827078&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-105289038-null-null.142^v94^chatsearchT3_1&utm_term=linux&spm=1018.2226.3001.4187)
 
 
 ## git
