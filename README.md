@@ -131,6 +131,7 @@
 [数组篇](algorithm/%E6%95%B0%E7%BB%84%E7%AF%87.md)<br>
 [链表篇](algorithm/%E9%93%BE%E8%A1%A8%E7%AF%87.md)<br>
 [哈希表](algorithm/%E5%93%88%E5%B8%8C%E8%A1%A8.md)<br>
+[字符串](algorithm/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br>
 
 
 ## MySQL
