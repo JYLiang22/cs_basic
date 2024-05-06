@@ -39,7 +39,9 @@
 ## 操作系统
 
 
-### RTOS
+### RT-Thread
+
+[Kernel basics](OS/RT-Thread/%E4%BB%8B%E7%BB%8D.md)<br>
 
 
 ### 小林coding笔记梳理
