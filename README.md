@@ -41,7 +41,7 @@
 
 ### RT-Thread
 
-[Kernel basics](OS/RT-Thread/%E4%BB%8B%E7%BB%8D.md)<br>
+[Kernel basics](cs_basic/OS/RT-Thread/介绍.md)<br>
 
 
 ### 小林coding笔记梳理
