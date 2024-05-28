@@ -39,11 +39,6 @@
 ## 操作系统
 
 
-### RT-Thread
-
-[Kernel basics](cs_basic/OS/RT-Thread/介绍.md)<br>
-
-
 ### 小林coding笔记梳理
 
 
