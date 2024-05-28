@@ -110,6 +110,9 @@
 无论什么岗位(后端、嵌入式、测开)都要开始看算法啦，现在面试的人太多啦，基本上都要笔试！<br>
 所有文章均参考自代码随想录！<br>
 
+题解：[代码随想录](https://github.com/youngyangyang04/leetcode-master)<br>
+acm模式练习：[卡码网](https://kamacoder.com/)<br>
+
 [数组篇](algorithm/%E6%95%B0%E7%BB%84%E7%AF%87.md)<br>
 [链表篇](algorithm/%E9%93%BE%E8%A1%A8%E7%AF%87.md)<br>
 [哈希表](algorithm/%E5%93%88%E5%B8%8C%E8%A1%A8.md)<br>
