@@ -118,6 +118,7 @@ acm模式练习：[卡码网](https://kamacoder.com/)<br>
 [哈希表](algorithm/%E5%93%88%E5%B8%8C%E8%A1%A8.md)<br>
 [字符串](algorithm/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br>
 [常见排序算法](algorithm/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)<br>
+[常见手撕](algorithm/%E9%9D%A2%E8%AF%95%E6%89%8B%E6%92%95%E7%8E%AF%E8%8A%82.md)<br>
 
 
 ## MySQL
