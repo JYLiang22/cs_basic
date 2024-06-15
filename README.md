@@ -247,7 +247,8 @@ acm模式练习：[卡码网](https://kamacoder.com/)<br>
 
 ## gdb/gcc
 
-gdb看[Linux高并发服务器里的笔记](https://github.com/JYLiang22/TinyWebServer/blob/main/project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/1%20Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/%E7%AC%94%E8%AE%B0.md)，自己动手写写，不难！<br>
+1. 看[Linux高并发服务器里的笔记](https://github.com/JYLiang22/TinyWebServer/blob/main/project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/1%20Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/%E7%AC%94%E8%AE%B0.md)，了解基本使用方法
+2. 结合书本和项目，学习多线程调试、内存泄漏等gdb方法
 
 
 ## Makefile/cmake
