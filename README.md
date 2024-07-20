@@ -41,12 +41,12 @@
 
 ### 小林coding笔记梳理
 
-[内存管理知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
-[进程管理知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
-[调度算法知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
-[文件系统知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
-[I/O 多路复用：select/poll/epoll](<OS/小林coding总结/IO 多路复用：select poll epoll.md>)<br>
-[高性能网络模式：Reactor 和 Proactor](<OS/小林coding总结/高性能网络模式：Reactor 和 Proactor.md>)<br>
+[内存管理知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/doc/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
+[进程管理知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/doc/%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
+[调度算法知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/doc/%E8%B0%83%E5%BA%A6%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
+[文件系统知识框架梳理](OS/%E5%B0%8F%E6%9E%97coding%E6%80%BB%E7%BB%93/doc/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E6%A1%86%E6%9E%B6%E6%A2%B3%E7%90%86.md)<br>
+[I/O 多路复用：select/poll/epoll](<OS/小林coding总结/doc/IO 多路复用：select poll epoll.md>)<br>
+[高性能网络模式：Reactor 和 Proactor](<OS/小林coding总结/doc/高性能网络模式：Reactor 和 Proactor.md>)<br>
 
 
 ## 计网
