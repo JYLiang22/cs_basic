@@ -95,17 +95,7 @@
 ## 算法
 
 无论什么岗位(后端、嵌入式、测开)都要开始看算法啦，现在面试的人太多啦，基本上都要笔试！<br>
-所有文章均参考自代码随想录！<br>
-
-题解：[代码随想录](https://github.com/youngyangyang04/leetcode-master)<br>
-acm模式练习：[卡码网](https://kamacoder.com/)<br>
-
-[数组篇](algorithm/%E6%95%B0%E7%BB%84%E7%AF%87.md)<br>
-[链表篇](algorithm/%E9%93%BE%E8%A1%A8%E7%AF%87.md)<br>
-[哈希表](algorithm/%E5%93%88%E5%B8%8C%E8%A1%A8.md)<br>
-[字符串](algorithm/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)<br>
-[常见排序算法](algorithm/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)<br>
-[常见手撕](algorithm/%E9%9D%A2%E8%AF%95%E6%89%8B%E6%92%95%E7%8E%AF%E8%8A%82.md)<br>
+详见👉[algorithm](https://github.com/JYLiang22/algorithm)<br>
 
 
 ## 设计模式
