@@ -1,1 +1,0 @@
-参见项目文件，这里已经说得很清楚了，结合自己的项目理解[面试题](https://github.com/JYLiang22/TinyWebServer-With-CoroLib/blob/main/project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6%E5%88%86%E6%9E%90/%E9%9D%A2%E8%AF%95%E9%A2%98.md#%E5%B9%B6%E5%8F%91%E6%A8%A1%E5%9E%8B%E7%9B%B8%E5%85%B3)
