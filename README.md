@@ -87,9 +87,7 @@
 [TCP 四次挥手，可以变成三次吗](<计网/TCP篇/TCP 四次挥手，可以变成三次吗.md>)<br>
 [TCP 序列号和确认号是如何变化的](<计网/TCP篇/TCP 序列号和确认号是如何变化的.md>)<br>
 
-**IP篇**<br>
-[IP基础知识全家桶](%E8%AE%A1%E7%BD%91/IP%E7%AF%87/IP%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E5%85%A8%E5%AE%B6%E6%A1%B6.md)<br>
-[ping的工作原理](%E8%AE%A1%E7%BD%91/IP%E7%AF%87/ping%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md)<br>
+[IP篇梳理](计网/IP篇梳理.md)<br>
 
 
 ## 算法
