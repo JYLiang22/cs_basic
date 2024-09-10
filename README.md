@@ -53,40 +53,9 @@
 
 ### 小林coding笔记梳理
 
-**基础篇**<br>
-[TCP IP网络模型有几层](<计网/基础篇/TCP IP网络模型有几层.md>)<br>
-[键入地址到网页显示期间发生了什么](%E8%AE%A1%E7%BD%91/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%94%AE%E5%85%A5%E5%9C%B0%E5%9D%80%E5%88%B0%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88.md)<br>
-[Linux 系统是如何收发网络包的](<计网/基础篇/Linux 系统是如何收发网络包的.md>)<br>
-
-**HTTP篇**<br>
-[HTTP常见面试题](%E8%AE%A1%E7%BD%91/HTTP%E7%AF%87/HTTP%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)<br>
-
-**TCP篇**<br>
-[TCP 三次握手与四次挥手面试题](<计网/TCP篇/TCP 三次握手与四次挥手面试题.md>)<br>
-[TCP重传 滑动窗口 流量控制 拥塞控制](<计网/TCP篇/TCP重传 滑动窗口 流量控制 拥塞控制.md>)<br>
-[TCP实战抓包分析](%E8%AE%A1%E7%BD%91/TCP%E7%AF%87/TCP%E5%AE%9E%E6%88%98%E6%8A%93%E5%8C%85%E5%88%86%E6%9E%90.md)<br>
-[TCP 半连接队列和全连接队列](<计网/TCP篇/TCP 半连接队列和全连接队列.md>)<br>
-[如何优化 TCP](<计网/TCP篇/如何优化 TCP.md>)<br>
-[如何理解是 TCP 面向字节流协议](<计网/TCP篇/如何理解是 TCP 面向字节流协议.md>)<br>
-[为什么 TCP 每次建立连接时，初始化序列号都要不一样呢](<计网/TCP篇/为什么 TCP 每次建立连接时，初始化序列号都要不一样呢.md>)<br>
-[SYN 报文什么时候情况下会被丢弃](<计网/TCP篇/SYN 报文什么时候情况下会被丢弃.md>)<br>
-[已建立连接的TCP，收到SYN会发生什么](%E8%AE%A1%E7%BD%91/TCP%E7%AF%87/%E5%B7%B2%E5%BB%BA%E7%AB%8B%E8%BF%9E%E6%8E%A5%E7%9A%84TCP%EF%BC%8C%E6%94%B6%E5%88%B0SYN%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88.md)<br>
-[四次挥手中收到乱序的 FIN 包会如何处理](<计网/TCP篇/四次挥手中收到乱序的 FIN 包会如何处理.md>)<br>
-[在 TIME_WAIT 状态的 TCP 连接，收到 SYN 后会发生什么](<计网/TCP篇/在 TIME_WAIT 状态的 TCP 连接，收到 SYN 后会发生什么.md>)<br>
-[TCP 连接，一端断电和进程崩溃有什么区别](<计网/TCP篇/TCP 连接，一端断电和进程崩溃有什么区别.md>)<br>
-[拔掉网线后， 原本的 TCP 连接还存在吗](<计网/TCP篇/拔掉网线后， 原本的 TCP 连接还存在吗.md>)<br>
-[tcp_tw_reuse 为什么默认是关闭的](<计网/TCP篇/tcp_tw_reuse 为什么默认是关闭的.md>)<br>
-[HTTPS 中 TLS 和 TCP 能同时握手吗](<计网/TCP篇/HTTPS 中 TLS 和 TCP 能同时握手吗.md>)<br>
-[TCP Keepalive 和 HTTP Keep-Alive 是一个东西吗](<计网/TCP篇/TCP Keepalive 和 HTTP Keep-Alive 是一个东西吗.md>)<br>
-[TCP 协议有什么缺陷](<计网/TCP篇/TCP 协议有什么缺陷.md>)<br>
-[如何基于 UDP 协议实现可靠传输](<计网/TCP篇/如何基于 UDP 协议实现可靠传输.md>)<br>
-[TCP 和 UDP 可以使用同一个端口吗](<计网/TCP篇/TCP 和 UDP 可以使用同一个端口吗.md>)<br>
-[服务端没有 listen，客户端发起连接建立，会发生什么](<计网/TCP篇/服务端没有 listen，客户端发起连接建立，会发生什么.md>)<br>
-[没有 accept，能建立 TCP 连接吗](<计网/TCP篇/没有 accept，能建立 TCP 连接吗.md>)<br>
-[用了 TCP 协议，数据一定不会丢吗](<计网/TCP篇/用了 TCP 协议，数据一定不会丢吗.md>)<br>
-[TCP 四次挥手，可以变成三次吗](<计网/TCP篇/TCP 四次挥手，可以变成三次吗.md>)<br>
-[TCP 序列号和确认号是如何变化的](<计网/TCP篇/TCP 序列号和确认号是如何变化的.md>)<br>
-
+[基础篇梳理]()<br>
+[http篇梳理]()<br>
+[tcp篇梳理]()<br>
 [IP篇梳理](计网/IP篇梳理.md)<br>
 
 
