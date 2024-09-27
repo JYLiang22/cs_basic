@@ -152,6 +152,8 @@
 [第十五章 面向对象程序设计](<C++ Primer/第十五章 面向对象程序设计.md>)<br>
 [第十六章 模板和泛型编程](<C++ Primer/第十六章 模板和泛型编程.md>)<br>
 
+[面经](面经总结/doc/语言.md)<br>
+
 
 # 工具类
 
@@ -192,9 +194,3 @@
 1. Makefile看[Linux高并发服务器里的笔记](https://github.com/JYLiang22/TinyWebServer/blob/main/project/Linux%E9%AB%98%E5%B9%B6%E5%8F%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91/1%20Linux%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/%E7%AC%94%E8%AE%B0.md)，自己动手写写，不难！
 2. 参考[CSDN](https://blog.csdn.net/ZBraveHeart/article/details/123187908?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170988428416800185818949%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=170988428416800185818949&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~hot_rank-2-123187908-null-null.142^v99^pc_search_result_base3&utm_term=Makefile&spm=1018.2226.3001.4187)
 3. 参考[廖雪峰makefile教程](https://liaoxuefeng.com/books/makefile/introduction/index.html)
-
-
-# 面经
-
-[语言](%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/doc/%E8%AF%AD%E8%A8%80.md)<br>
-[工具](%E9%9D%A2%E7%BB%8F%E6%80%BB%E7%BB%93/doc/%E5%B7%A5%E5%85%B7.md)<br>
